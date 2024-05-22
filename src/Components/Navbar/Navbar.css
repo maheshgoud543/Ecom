@@ -1,0 +1,22 @@
+.Items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    cursor: pointer;
+}
+.title{
+    display: flex;
+    justify-content: flex-start;
+    padding-right: 25rem;    
+}
+.Items_classification{
+    display: flex;
+    gap: 2rem;
+    cursor: pointer;
+}
+.Icons{
+    display: flex;
+    justify-content: flex-end;
+    gap: 2rem;
+}
